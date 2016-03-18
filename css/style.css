@@ -5,7 +5,7 @@
 
 body {
     background: #0c739f;
-    background-image: url(../img/bg.jpg);
+    background-image: url('../img/bg.jpg');
     background-repeat: repeat-x;
 }
 
